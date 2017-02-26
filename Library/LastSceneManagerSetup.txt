@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Colosseum.unity
+  isLoaded: 1
+  isActive: 1
