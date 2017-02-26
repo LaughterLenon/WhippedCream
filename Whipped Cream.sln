@@ -1,18 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whipped Cream.CSharp", "Whipped Cream.CSharp.csproj", "{5724E233-28C0-F817-FB51-98A971BCB98E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5724E233-28C0-F817-FB51-98A971BCB98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5724E233-28C0-F817-FB51-98A971BCB98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5724E233-28C0-F817-FB51-98A971BCB98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5724E233-28C0-F817-FB51-98A971BCB98E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
